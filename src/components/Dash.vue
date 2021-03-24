@@ -2,25 +2,6 @@
   <div class="dash">
     <main class="bg-gray-50">
       <div class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8 flex">
-        <div
-          class="relative flex flex-col items-center justify-items-start space-y-6 h-auto"
-        >
-          <div class="h-auto w-auto rounded-sm border-gray-100 mr-10">
-            <p class="text-xl">Home</p>
-          </div>
-          <div class="h-auto w-auto rounded-sm border-gray-100 mr-10">
-            <p class="text-xl">Roster</p>
-          </div>
-          <div class="h-auto w-auto rounded-sm border-gray-100 mr-10">
-            <p class="text-xl">Workouts</p>
-          </div>
-          <div class="h-auto w-auto rounded-sm border-gray-100 mr-10">
-            <p class="text-xl">Notifications</p>
-          </div>
-          <div class="h-auto w-auto rounded-sm border-gray-100 mr-10">
-            <p class="text-xl">Settings</p>
-          </div>
-        </div>
         <div class="h-screen w-full">
           <div class="cards flex space-x-4">
             <div class="rounded-lg shadow-lg h-40 w-1/3 bg-gray-50">
